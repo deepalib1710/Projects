@@ -3,7 +3,22 @@ Welcome to my central data and project repository. Use the links below to naviga
 
 ---
 
-## 📊 Data Science & Analytics
-*Projects focused on data cleaning, exploratory analysis, and predictive modeling.*
+## 📊 Computer Vision
+*Projects featuring Computer Vision and Image Processing.*
 
-* **[Housing Market Analysis](
+* **[Image Stitching](
+https://github.com/deepalib1710/Image-Stitching
+)**
+
+* **[Canny Edge Detection](
+https://github.com/deepalib1710/Image-Processing-and-Canny-Edge-Detection
+)**
+
+---
+
+## 📊 Machine Learning/ Deep Learning
+*Projects featuring training and deployment of CNNs and DNNs.*
+
+* **[Malware Detection](
+https://github.com/deepalib1710/Malware-Detection
+)**
