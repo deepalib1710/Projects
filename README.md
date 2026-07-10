@@ -22,3 +22,7 @@ https://github.com/deepalib1710/Image-Processing-and-Canny-Edge-Detection
 * **[Malware Detection](
 https://github.com/deepalib1710/Malware-Detection
 )**
+
+* **[Fall Detection System](
+https://github.com/deepalib1710/Fall-Detection-YOLOv8  
+)**
