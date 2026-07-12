@@ -32,6 +32,6 @@ https://github.com/deepalib1710/Fall-Detection-YOLOv8
 ## 📊 Lingua Franca
 *Project featuring evaluation of reactive systems through NTP*
 
-* **(
+* **
 https://github.com/deepalib1710/Lingua-Franca/tree/main
-)**
+**
