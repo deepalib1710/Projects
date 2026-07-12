@@ -26,3 +26,12 @@ https://github.com/deepalib1710/Malware-Detection
 * **[Fall Detection System](
 https://github.com/deepalib1710/Fall-Detection-YOLOv8  
 )**
+
+---
+
+## 📊 Lingua Franca
+*Project featuring comparison between imperitive and reactive systems through NTP*
+
+* **[Malware Detection](
+https://github.com/deepalib1710/Malware-Detection
+)**
