@@ -30,9 +30,9 @@ https://github.com/deepalib1710/Fall-Detection-YOLOv8
 ---
 
 ## 📊 Lingua Franca
-*Project featuring evaluation of reactive systems through NTP*
+*Project to evaluate deterministic execution and temporal semantics in distributed Cyber-Physical Systems (CPS) by implementing NTP-based time-synchronization*
 
-* **[Reactor Based Architecture](
+* **["Reactor" Based Architecture](
 https://github.com/deepalib1710/Lingua-Franca/tree/main
 )**
 
